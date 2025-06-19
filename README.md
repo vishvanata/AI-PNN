@@ -7,17 +7,6 @@
 
 AI-PNN is built on the AI-FFPE pipeline. Compared to [CycleGAN](https://github.com/junyanz/CycleGAN), our model training is faster and less memory-intensive.
 
-<br>
-<img src='imgs/frozgan_loss2.gif' align="right" width=960>
-<br>
-
-## Example Results
-
-### Frozen to FFPE Translation in Brain Specimens
-<img src="imgs/brain_gif.gif" width="800px"/>
-
-### Frozen to FFPE Translation in Lung Specimens
-<img src="imgs/lung_gif.gif" width="800px"/>
 
 
 ## Prerequisites
