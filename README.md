@@ -1,13 +1,11 @@
 
 
 # AI-PNN: Rapid Visualization of Perineuronal Nets in Brain Tumors
-# A deep-learning model for transforming the style of tissue images from cryosectioned to formalin-fixed and paraffin-embedded
 
-<img src="imgs/overview.jpeg" width="800px"/>
 
 ### [Paper](https://www.nature.com/articles/s41551-022-00952-9) | [Brain GBM Dataset](https://portal.gdc.cancer.gov/projects/TCGA-GBM) | [Brain LGG Dataset](https://portal.gdc.cancer.gov/projects/TCGA-LGG) | [Lung LUAD Dataset](https://portal.gdc.cancer.gov/projects/TCGA-LUAD) |  [Lung LUSC Dataset](https://portal.gdc.cancer.gov/projects/TCGA-LUSC) | [Pretrained Models](https://www.dropbox.com/sh/x7fvxx1fiohxwb4/AAAObJJTJpIHHi-s2UafrKeea?dl=0) | [WebSite](https://deepmia.boun.edu.tr/) 
 
-In this work, we propose AI-FFPE pipeline which is optimized for histopathology images by driving the network attention specifically to the nuclei and tissue preperation protocols related deficiencies. Compared to [CycleGAN](https://github.com/junyanz/CycleGAN), our model training is faster and less memory-intensive.
+AI-PNN is built on the AI-FFPE pipeline. Compared to [CycleGAN](https://github.com/junyanz/CycleGAN), our model training is faster and less memory-intensive.
 
 <br>
 <img src='imgs/frozgan_loss2.gif' align="right" width=960>
